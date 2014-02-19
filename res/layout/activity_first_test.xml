@@ -8,7 +8,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".FirstTest" >
 
-    <!-- Test From Git 123-->
+    <!-- Test From Git 1234-->
 
     <TextView
         android:layout_width="wrap_content"
