@@ -9,6 +9,7 @@
     tools:context=".FirstTest" >
 
     <!-- Test From Git 12345-->
+     <!-- Test From Git 12345-->
 
     <TextView
         android:layout_width="wrap_content"
